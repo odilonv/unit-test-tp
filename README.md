@@ -1,6 +1,7 @@
 # TP: Tests Unitaires
 
 Ce fichier décrit les tests unitaires réalisés sur les différentes fonctions implémentées dans le projet. Ces tests visent à garantir la robustesse et la fiabilité des fonctions en validant leur comportement pour divers scénarios.
+Ce fichier a été conçu dans le cadre de la matière **Validation de logiciels** lors de ma deuxième année à l'**IMT Mines Alès**.
 
 ## Table des matières
 

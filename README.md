@@ -3,6 +3,8 @@
 Ce fichier décrit les tests unitaires réalisés sur les différentes fonctions implémentées dans le projet. Ces tests visent à garantir la robustesse et la fiabilité des fonctions en validant leur comportement pour divers scénarios.
 Ce fichier a été conçu dans le cadre de la matière **Validation de logiciels** lors de ma deuxième année à l'**IMT Mines Alès**.
 
+Sujet : https://docs.google.com/document/d/1i5fdEqoXwykGgCUbv6z2KrpHHBUIDuBK9ZL4fcK6E2Y/edit?tab=t.0
+
 ## Table des matières
 
 1. [Tests des fonctions](#tests-des-fonctions)

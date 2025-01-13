@@ -106,7 +106,18 @@ Ce fichier décrit les tests unitaires réalisés sur les différentes fonctions
 
 ## Résultats
 
-![Results](image.png)
+| File               | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s |
+|--------------------|---------|----------|---------|---------|-------------------|
+| All files          |     100 |      100 |     100 |     100 |                   |
+| unitTest.class.js  |     100 |      100 |     100 |     100 |                   |
+|--------------------|---------|----------|---------|---------|-------------------|
+
+Test Suites: 1 passed, 1 total  
+Tests:       28 passed, 28 total  
+Snapshots:   0 total  
+Time:        2.156 s  
+Ran all test suites.
+
 
 ---
 

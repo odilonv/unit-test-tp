@@ -110,7 +110,6 @@ Ce fichier décrit les tests unitaires réalisés sur les différentes fonctions
 |--------------------|---------|----------|---------|---------|-------------------|
 | All files          |     100 |      100 |     100 |     100 |                   |
 | unitTest.class.js  |     100 |      100 |     100 |     100 |                   |
-|--------------------|---------|----------|---------|---------|-------------------|
 
 Test Suites: 1 passed, 1 total  
 Tests:       28 passed, 28 total  
